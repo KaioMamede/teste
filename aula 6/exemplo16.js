@@ -10,8 +10,8 @@ class Livro{
     get Preco(){return this.preco}
     set Preco(pPreco){this.preco = pPreco}
 
-    calcularDesconto(){
-        this.preco= this.preco - 10
+    calcularDesconto(pDesconto){
+        this.preco= this.preco - pDesconto
     }
 }
 
