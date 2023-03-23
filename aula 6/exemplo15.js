@@ -8,11 +8,16 @@ class Livro{
     set Nome(pNome) {this.nome = pNome}
 
     get Preco(){return this.preco}
-    set Preco(){pPreco = pPreco}
+    set Preco(pPreco){this.preco = pPreco}
+
+    calcularDesconto(){
+        this.preco= this.preco - 10
+    }
 }
 
-var obj_livro1 = new Livro("Use a cabeça Java")
-console.Log("O livro "+ obj_livro1.nome+ "custa" +)
-obj_livro1.preco+ "reais"
+var obj_livro1 = new Livro("Use a cabeça Java",200)
+obj_livro1.calcularDesconto()
+console.Log("O livro "+ obj_livro1.nome+ "custa" +
+obj_livro1.preco+ "reais")
 
 console.log("Preco: "+obj_livro1.preco)
