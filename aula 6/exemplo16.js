@@ -11,7 +11,7 @@ class Livro{
     set Preco(pPreco){this.preco = pPreco}
 
     calcularDesconto(pDesconto){
-        this.preco= this.preco - pDesconto
+        this.preco= this.preco - (this.preco * pDesconto)/ 100
     }
 }
 
