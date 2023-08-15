@@ -1,0 +1,12 @@
+Categorias
+
+Carnes
+Margarinas
+Grãos
+Temperos
+Doces
+Bebidas
+Limpeza
+Verdura
+Fruta
+Peixe

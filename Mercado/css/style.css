@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');   /* Importando font Poppins*/
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+  scroll-behavior: smooth;    /* Movimento de rolagem ao clicar no item*/
+  transition: .2s;
+}
+body,ul {   /* Corpo e lista */
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+body::-webkit-scrollbar {   /* Alterando a cor e tamanho do scroll lateral*/
+  width: 10px;
+}
+body::-webkit-scrollbar-track {   /* Alterando a cor e tamanho do scroll lateral*/
+  background: rgba(0, 0, 0, 0.05);
+}
+body::-webkit-scrollbar-thumb {   /* Alterando a cor e tamanho do scroll lateral*/
+  background-color: #BAD7F2;
+  border-radius: 40px;
+  border: 5px solid rgba(0, 0, 0, 0.05);
+}
+a {   /* Estilizando texto e icone header*/
+  color: black;
+  font-weight: bolder;
+  text-decoration: none;
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.logo:hover{
+  transform: scale(1);
+}
+a:hover {   /* Estilizando texto e icone header - Zoom*/
+ color: #000000;
+ transition: 0.5s;
+ -webkit-transform: scale(1.2);
+  transform: scale(1.2);
+}
+.contato{   /* Estilizando contato e icone header*/
+  color: aliceblue;
+}
+#logo {   /*Imagem Logo Supermercado*/
+  width: 100px;
+  padding: 10px 0px 0px 5px;
+  display: block;
+}
+
+#header {   /* Header */
+  width: 100%;
+  box-sizing: border-box;
+  height: 100px;
+  padding: 1rem;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+  background: #7093F9;
+}
+#menu {   /* Menu */
+  display: flex;
+  list-style: none;
+  gap: 0.5rem;
+}
+#menu a {
+  display: block;
+  padding: 0.5rem;
+}
+#btn-mobile {
+  display: none;
+}
+#icon {
+  padding: 0px 0px 0px 3px;
+}
+#banner{
+  width: 100%;
+}
+#cat-carne{ /* Imagem Fundo Carnes & Frangos */
+  width: 100%;
+  height: auto;
+  margin-top: -20px;
+  background-image: url("../images/fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-carne{  /* Titulo Tamanho Carnes & Frangos */
+  width: 100%;
+  height: 80px;
+  color: rgb(224, 39, 39);
+  text-align: center;
+}
+.textotitulo{ /* Texto Tamanho Carnes & Frangos */
+  font-size: 30px;
+  font-weight: bold;
+  padding-top: 15px;
+}
+#cat-margarinas{ /* Imagem Fundo Margarinas */
+  width: 100%;
+  height: auto;
+  background-image: url("../images/fundo-margarina.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-margarinas{  /* Titulo Tamanho Margarina */
+  width: 100%;
+  height: 80px;
+  color: rgb(241, 183, 36);
+  text-align: center;
+}
+.container{ /* Card Para todas Categorias */
+  position: relative;
+  gap: 20px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+.container .card{
+  position: relative;
+  max-width: 300px;
+  height: 400px;
+  background: #fff;
+  margin: 30px 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 5px 202px rgba(0,0,0,0.2);
+  border-radius: 20px;
+  transition: 0.3s ease-in-out;
+}
+.carnes-img{
+  width: 200px;
+  height: 200px;
+}
+.container .card::hover{
+  height: 800px;
+}
+.container .card .imgBx{
+  position: relative;
+  border-radius: 20px;
+  width: 200px;
+  height: 260px;
+  left: 50px;
+  margin-top: -50px;
+  z-index: 1;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+.container .card .imgBx img{
+  max-width: 100%;
+  border-radius: 4px;
+}
+.container .card .content{
+  position: relative;
+  margin-top: -140px;
+  padding: 10px 15px;
+  text-align: center;
+  color: #111;
+  visibility: hidden;
+  opacity: 0;
+  transition: 0.3s ease-in-out;
+}
+.container .card:hover .content{
+  visibility: visible;
+  opacity: 1;
+  margin-top: 20px;
+  transition-delay: 0.3s;
+}
+
+@media (max-width: 1050px) {  /* Responsivando Site e Menu */
+  #menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    top: 100px;
+    right: 0px;
+    background: #7093F9;
+    transition: 0.6s;
+    z-index: 1000;
+    height: 0px;
+    visibility: hidden;
+    overflow-y: hidden;
+  }
+  #nav.active #menu {
+    height: 90vh;
+    visibility: visible;
+  }
+  #menu a {
+    padding: 1rem 0;
+    margin: 0 1rem;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.05);
+  }
+  #btn-mobile {
+    display: flex;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+    gap: 0.5rem;
+  }
+  #hamburger {
+    border-top: 2px solid;
+    width: 20px;
+  }
+  #hamburger::after,
+  #hamburger::before {
+    content: '';
+    display: block;
+    width: 20px;
+    height: 2px;
+    background: currentColor;
+    margin-top: 5px;
+    transition: 0.3s;
+    position: relative;
+  }
+  #nav.active #hamburger {
+    border-top-color: transparent;
+  }
+  #nav.active #hamburger::before {
+    transform: rotate(135deg);
+  }
+  #nav.active #hamburger::after {
+    transform: rotate(-135deg);
+    top: -7px;
+  }
+}
+@media only screen and (max-width: 480px) {
+  #banner {
+    width: 100%;
+  }
+}
