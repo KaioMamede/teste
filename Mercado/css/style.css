@@ -30,6 +30,7 @@ a {   /* Estilizando texto e icone header*/
   transition: all 0.5s;
   cursor: pointer;
 }
+
 .logo:hover{
   transform: scale(1);
 }
