@@ -30,6 +30,7 @@ a {   /* Estilizando texto e icone header*/
   transition: all 0.5s;
   cursor: pointer;
 }
+
 .logo:hover{
   transform: scale(1);
 }
@@ -78,6 +79,75 @@ a:hover {   /* Estilizando texto e icone header - Zoom*/
 #banner{
   width: 100%;
 }
+#cat-frutas{ /* Imagem frutas*/
+  width: 100%;
+  height: auto;
+  background-image: url("../images/fundo-margarina.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-frutas{ /* frutas*/
+  width: 100%;
+  height: 80px;
+  color: rgb(241, 183, 36);
+  text-align: center;
+}
+#cat-legumes{ /* Imagem legumes*/
+  width: 100%;
+  height: auto;
+  background-image: url("../images/fundo-margarina.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-legumes{ /* legumes*/
+  width: 100%;
+  height: 80px;
+  color: rgb(241, 183, 36);
+  text-align: center;
+}
+
+#cat-limpeza{ /* Imagem limpeza*/
+  width: 100%;
+  height: auto;
+  background-image: url("../images/fundo-margarina.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-limpeza{ /* Titulo limpeza*/
+  width: 100%;
+  height: 80px;
+  color: rgb(241, 183, 36);
+  text-align: center;
+}
+
+#cat-bebidas{ /* Imagem fundo bebidas*/
+  width: 100%;
+  height: auto;
+  background-image: url("../images/fundo-margarina.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-bebidas{ /* Titulo bebidas*/
+  width: 100%;
+  height: 80px;
+  color: rgb(241, 183, 36);
+  text-align: center;
+}
+
+#cat-doces{ /* Imagem fundo doces*/
+  width: 100%;
+  height: auto;
+  background-image: url("../images/fundo-margarina.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.titulo-doces{ /* Titulo doces*/
+  width: 100%;
+  height: 80px;
+  color: rgb(241, 183, 36);
+  text-align: center;
+}
+
 #cat-graos{ /* Imagem fundo graos*/
   width: 100%;
   height: auto;
@@ -85,7 +155,6 @@ a:hover {   /* Estilizando texto e icone header - Zoom*/
   background-repeat: no-repeat;
   background-size: cover;
 }
-
 .titulo-graos{ /* Titulo graos*/
   width: 100%;
   height: 80px;
@@ -151,7 +220,7 @@ a:hover {   /* Estilizando texto e icone header - Zoom*/
   width: 200px;
   height: 200px;
 }
-.container .card::hover{
+.container .card:hover{
   height: 800px;
 }
 .container .card .imgBx{

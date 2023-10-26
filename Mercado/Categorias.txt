@@ -7,8 +7,6 @@ Temperos
 Doces
 Bebidas
 Limpeza
-Legumes
+Verdura
 Fruta
 Peixe
-Login
-Cadastro
