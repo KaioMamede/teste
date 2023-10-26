@@ -1,0 +1,300 @@
+C:\temp\ProjVeiculos\ControleNotas4\obj\Debug\ProjVeiculos.csprojAssemblyReference.cache
+C:\temp\ProjVeiculos\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CoreCompileInputs.cache
+C:\temp\ProjVeiculos\ControleNotas4\obj\Debug\ControleNotas4.dll
+C:\temp\ProjVeiculos\ControleNotas4\obj\Debug\ControleNotas4.pdb
+C:\temp\ProjVeiculos\ControleNotas4\bin\ControleNotas4.dll.config
+C:\temp\ProjVeiculos\ControleNotas4\bin\ControleNotas4.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\ControleNotas4.pdb
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\csc.exe
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\csc.exe.config
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\csc.rsp
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\csi.exe
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\csi.exe.config
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\csi.rsp
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.AppContext.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Collections.Immutable.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Console.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.Compression.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.FileSystem.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.Pipes.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Reflection.Metadata.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.AccessControl.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Claims.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.ValueTuple.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.XPath.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\vbc.exe
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\vbc.exe.config
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\vbc.rsp
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\VBCSCompiler.exe
+C:\temp\ProjVeiculos\ControleNotas4\bin\roslyn\VBCSCompiler.exe.config
+C:\temp\ProjVeiculos\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\MySql.Data.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\Google.Protobuf.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\BouncyCastle.Crypto.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\Renci.SshNet.dll
+C:\temp\ProjVeiculos\ControleNotas4\bin\MySql.Data.xml
+C:\temp\ProjVeiculos\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\temp\ProjVeiculos\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CopyComplete
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\ControleNotas4.dll.config
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\ControleNotas4.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\ControleNotas4.pdb
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\csc.exe
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\csc.exe.config
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\csc.rsp
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\csi.exe
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\csi.exe.config
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\csi.rsp
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.AppContext.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Console.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Claims.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\vbc.exe
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\vbc.exe.config
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\vbc.rsp
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\Google.Protobuf.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\BouncyCastle.Crypto.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\Renci.SshNet.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\MySql.Data.xml
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\obj\Debug\ProjVeiculos.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\obj\Debug\ControleNotas4.dll
+C:\Users\mfpledon\Desktop\Aula 13 - TE - 2021 - Exemplo. Cloud computing\ProjVeiculos\ControleNotas4\obj\Debug\ControleNotas4.pdb
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\ControleNotas4.dll.config
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\ControleNotas4.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\ControleNotas4.pdb
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\csc.exe
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\csc.exe.config
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\csc.rsp
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\csi.exe
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\csi.exe.config
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\csi.rsp
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.AppContext.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Collections.Immutable.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Console.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.Compression.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.FileSystem.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.Pipes.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Reflection.Metadata.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.AccessControl.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Claims.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.ValueTuple.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.XPath.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\vbc.exe
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\vbc.exe.config
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\vbc.rsp
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\VBCSCompiler.exe
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\roslyn\VBCSCompiler.exe.config
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\Google.Protobuf.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\BouncyCastle.Crypto.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\Renci.SshNet.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\MySql.Data.xml
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\obj\Debug\ProjVeiculos.csproj.AssemblyReference.cache
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CoreCompileInputs.cache
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CopyComplete
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\obj\Debug\ControleNotas4.dll
+C:\D\Aulas20232\TE\Aula 09 - TE - 2023 - Exercícios\ProjVeiculosBase\ControleNotas4\obj\Debug\ControleNotas4.pdb
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\ControleNotas4.dll.config
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\ControleNotas4.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\ControleNotas4.pdb
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\csc.exe
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\csc.exe.config
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\csc.rsp
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\csi.exe
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\csi.exe.config
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\csi.rsp
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.AppContext.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Console.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.Compression.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Claims.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.ValueTuple.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\vbc.exe
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\vbc.exe.config
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\vbc.rsp
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\VBCSCompiler.exe
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\Google.Protobuf.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\BouncyCastle.Crypto.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\Renci.SshNet.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\MySql.Data.xml
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\obj\Debug\ProjVeiculos.csproj.AssemblyReference.cache
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CopyComplete
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\obj\Debug\ControleNotas4.dll
+C:\Users\autologon\Documents\ProjVeiculosBase(1)\ProjVeiculosBase\ProjVeiculosBase\ControleNotas4\obj\Debug\ControleNotas4.pdb
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\ControleNotas4.dll.config
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\ControleNotas4.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\ControleNotas4.pdb
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\csc.exe
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\csc.exe.config
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\csc.rsp
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\csi.exe
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\csi.exe.config
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\csi.rsp
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.AppContext.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Console.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.IO.Compression.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.Claims.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.ValueTuple.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\vbc.exe
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\vbc.exe.config
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\vbc.rsp
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\VBCSCompiler.exe
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\Google.Protobuf.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\BouncyCastle.Crypto.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\Renci.SshNet.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\MySql.Data.xml
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\obj\Debug\ProjVeiculos.csproj.AssemblyReference.cache
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\obj\Debug\ProjVeiculos.csproj.CopyComplete
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\obj\Debug\ControleNotas4.dll
+C:\Users\kaiom\OneDrive\Documentos\Curso\teste\Ex-9\ControleNotas4\obj\Debug\ControleNotas4.pdb
