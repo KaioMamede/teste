@@ -9,7 +9,7 @@ namespace namespaceVeiculos
 {
     public class Dao {
         //Esta classe se ocupa das operações que vamos realizar com o banco de dados
-
+        //1234 é meu host
         private MySqlConnection conexao = new MySqlConnection(
             "server=localhost; port=3306; user id=root; " +
             "password=1234; database=concessionaria");
@@ -19,7 +19,9 @@ namespace namespaceVeiculos
         public String inserir(Veiculo veic){
             try{
                 conexao.Open();
-                command = new MySqlCommand("INSERT INTO veiculos (placa, marca, modelo, ano, preco) VALUES (@placa,@marca,@modelo,@ano,@preco)", conexao);
+                command = new MySqlCommand("INSERT INTO veiculos (placa, " +
+                    "marca, modelo, ano, preco) VALUES " +
+                    "(@placa,@marca,@modelo,@ano,@preco)", conexao);
                 command.Parameters.AddWithValue("@placa", veic.Placa);
                 command.Parameters.AddWithValue("@marca", veic.Marca);
                 command.Parameters.AddWithValue("@modelo", veic.Modelo);
@@ -50,7 +52,8 @@ namespace namespaceVeiculos
             try
             {
                 conexao.Open();
-                command = new MySqlCommand("UPTADE INTO veiculos SET plca=@placa , marca = @marca , modelo = @modelo , ano = @ano , preco = @preco; ", conexao);
+                command = new MySqlCommand("UPTADE INTO veiculos SET plca=@placa , marca = " +
+                    "@marca , modelo = @modelo , ano = @ano , preco = @preco; ", conexao);
                 command.Parameters.AddWithValue("@placa", veic.Placa);
                 command.Parameters.AddWithValue("@marca", veic.Marca);
                 command.Parameters.AddWithValue("@modelo", veic.Modelo);
@@ -119,7 +122,8 @@ namespace namespaceVeiculos
             try{
                 Veiculo veic;
                 conexao.Open();
-                command = new MySqlCommand("SELECT * FROM veiculos WHERE placa = @placa", conexao);
+                command = new MySqlCommand("SELECT * FROM veiculos WHERE placa = " +
+                    "@placa", conexao);
                 command.Parameters.AddWithValue("@placa", placa);
                 command.Prepare();
                 rs = command.ExecuteReader();
@@ -165,7 +169,7 @@ namespace namespaceVeiculos
         public DataSet preencherListBox()
         {
             try
-            {
+            {           
                 MySqlDataAdapter adapter = new MySqlDataAdapter();
                 adapter.SelectCommand = 
                     new MySqlCommand("select marca from marcas ORDER BY marca", conexao);

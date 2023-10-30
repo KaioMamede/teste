@@ -9,7 +9,7 @@ namespace namespaceVeiculos
 {
     public class Dao {
         //Esta classe se ocupa das operações que vamos realizar com o banco de dados
-
+        //1234 é meu host
         private MySqlConnection conexao = new MySqlConnection(
             "server=localhost; port=3306; user id=root; password=1234; database=concessionaria");
         private MySqlCommand command;
